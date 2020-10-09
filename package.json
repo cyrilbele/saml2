@@ -25,7 +25,6 @@
     "url": "https://github.com/Clever/saml2/issues"
   },
   "devDependencies": {
-    "coffee-script": "^1.12.0",
     "mocha": "^7.1.1",
     "nyc": "^15.0.0"
   },
@@ -37,6 +36,7 @@
     "xml-encryption": "^1.2.1",
     "xml2js": "^0.4.0",
     "xmlbuilder": "~2.2.0",
-    "xmldom": "^0.1.0"
+    "xmldom": "^0.1.0",
+    "coffee-script": "^1.12.0",
   }
 }
